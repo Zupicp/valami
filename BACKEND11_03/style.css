@@ -1,0 +1,15 @@
+button
+{
+background-color: aquamarine;
+border-radius: 14px;
+padding: 9px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.active{
+    background-color: beige;
+}
+li{
+    padding: 4px;
+}
